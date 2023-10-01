@@ -1,0 +1,17 @@
+{
+    "name": "jonathan/week5",
+    "autoload": {
+        "psr-4": {
+            "Jonathan\\Week5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JSenpa1",
+            "email": "41582843+JSenpa1@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
